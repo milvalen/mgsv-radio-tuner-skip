@@ -1,0 +1,5 @@
+dist/
+publishing/
+__pycache__/
+*.pyc
+.DS_Store
